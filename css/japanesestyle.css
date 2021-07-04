@@ -1,0 +1,237 @@
+@charset "UTF-8";
+
+#tema1 {
+    height: 600px;
+    width: 1380px;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    margin-top: 10%;
+    background-image: url(../images/a2.png);
+    background-color: #FFFFFF;
+}
+#tema3 p #mapa {
+    margin-left: 6%;
+}
+
+#tema1 p #tokyo {
+    float: right;
+    margin-top: 10px;
+    font-size: 21px;
+    margin-left: 10px;
+
+
+}
+
+#carusel {
+    width: 1420px;
+    height: 400px;
+    margin-left: 15%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+#tema3 p img {
+}
+#tema3 p #img {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#tema2 {
+    margin-top: 3%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 1%;
+    height: 530px;
+    width: 1400px;
+    top: 5%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: 21px;
+    background-image: url(../images/aab.png);
+    background-color: #FFFFFF;
+}
+#tema3 {
+    background-color: #B6F9C6;
+    height: 1200px;
+    width: 1380px;
+    margin-top: 2%;
+    margin-right: 15%;
+    margin-bottom: 2%;
+    margin-left: 15%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    font-size: 21px;
+    background-image: url(../images/patronverder.png);
+}
+#tema4 {
+    height: 700px;
+    width: 1420px;
+    margin-top: 2%;
+    margin-right: 15%;
+    margin-bottom: 2%;
+    margin-left: 15%;
+    background-image: url(../images/aab.png);
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-align: center;
+    background-color: #A0E1EC;
+}
+#tema5 {
+    background-color: #FCD9D9;
+    height: 900px;
+    width: 1420px;
+    margin-top: 2%;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-image: url(../images/patronesa.png);
+}
+#tema5 div {
+    text-align: center;
+}
+#tema4 div {
+    text-align: center;
+}
+#tema4 p {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+
+
+#tema1 p #img2 {
+    float: left;
+    margin-left: 10px;
+    margin-right: 14px;
+}
+#tema2 p #significado {
+    float: right;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+    border-color: #030303;
+    border-width: 2px;
+}
+#titulo {
+    padding: 20px;
+    height: 260px;
+    width: 1400px;
+    margin-bottom: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#titulo #titulofoto {
+    padding-top: 60px;
+    padding-right: 60px;
+    padding-left: 140px;
+    padding-bottom: 60px;
+    margin-top: 3%;
+}
+#menu {
+    height: 85px;
+    width: 1420px;
+    margin-bottom: 1%;
+    margin-left: 15%;
+
+
+
+
+
+
+
+
+
+
+
+
+	margin-right: 4%
+    position: fixed;
+    background-color: #000000;
+    margin-right: 15%;
+    position: fixed;
+    bottom: 88%;
+}
+#menu a #japooon {
+    margin-left: 3%;
+    margin-top: 1%;
+}
+
+#menu #eti {margin-left: 2% 	
+}
+#menu a #etimoli {
+    margin-left: 2%;
+}
+#menu a #geo2 {
+    margin-left: 2%;
+}
+#menu a #econimix {
+    margin-left: 2%;
+}
+#menu a #animeeeee {
+    margin-left: 2%;
+}
+
+
+
+
+#menu #geo {
+margin-left: 2%}
+#menu #eco {margin-left: 2%
+}
+#menu #anime {margin-left: 2%
+}
+#menu #japoon {
+    margin-left: 4%;
+    margin-top: 1%;
+}
+#carusel {
+    background-color: #C86F70;
+}
+#menu a #geoo {
+    margin-left: 2%;
+}
+#tema3 ul #islasg {
+    float: right;
+    margin-right: 45%;
+    margin-bottom: 0px;
+
+
+}
+#eljapon {
+    margin-left: 16%;
+}
+#footeer {
+    background-color: #000000;
+    height: 50px;
+    width: 1440px;
+    margin-top: 2%;
+    margin-left: 15%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#footeer {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
